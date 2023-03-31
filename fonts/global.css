@@ -25,3 +25,17 @@
   font-weight: normal;
   font-style: normal;
 }
+
+@font-face {
+  font-family: "Ricordi-l";
+  src: url('./TT-Ricordi-Allegria-Trial-Light.ttf');
+  font-weight: light;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Ricordi-r";
+  src: url('./TT-Ricordi-Allegria-Trial-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}

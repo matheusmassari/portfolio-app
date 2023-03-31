@@ -8,7 +8,6 @@ export default function Main() {
         <Container maxW={{ base: "100%", md: "1200px", xl: "1600px" }}>
             <Flex>
                 <Sidebar />
-
                 <motion.div
                     initial={{ y: "100vh" }}
                     animate={{ y: 0 }}

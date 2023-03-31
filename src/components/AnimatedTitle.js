@@ -13,7 +13,8 @@ const AnimatedTitle = ({ show }) => {
                 >
                     <Heading
                         as="h1"
-                        fontSize={["2xl", "3xl"]}                        
+                        fontSize={["2xl", "3xl"]}
+                        fontFamily={"Ricordi-r"}                        
                         textAlign="center"
                         color={"yellow.800"}
                     >
